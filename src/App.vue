@@ -7,8 +7,8 @@
 </template>
 
 <script>
-import vueBlock from './vueBlock.vue';
-import vueResults from './vueResults.vue';
+import vueBlock from './components/vueBlock.vue';
+import vueResults from './components/vueResults.vue';
 
 
 export default {
